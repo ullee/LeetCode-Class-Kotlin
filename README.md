@@ -1,5 +1,5 @@
 # LeetCode-Class-Kotlin
-LeetCode Class in kotlin
+LeetCode Class for kotlin
 
 ## ListNode
 ### Initialize from Collection's List
